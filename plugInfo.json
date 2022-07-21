@@ -1,0 +1,20 @@
+{
+    "Plugins": [
+        {
+            "Info": {
+                "Types": {
+                    "MyPrimAdapter": {
+                        "bases": [
+                            "UsdImagingPrimAdapter"
+                        ],
+                        "isInternal": true,
+                        "primTypeName": "MyPrimAdapter"
+                    }
+                }
+            },
+            "LibraryPath": "E:\\github\\usd_atfx\\adapter\\lib\\testlib.dll",
+            "Name": "MyPrimAdapter",
+            "Type": "library"
+        }
+    ]
+}
